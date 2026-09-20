@@ -1,0 +1,10 @@
+comma.ai Calibration Challenge — Local Validation
+Aggregate leave-one-video-out score: 18.32%
+
+Video 0: 13.52%
+Video 1: 23.13%
+Video 2: 11.39%
+Video 3: 39.48%
+Video 4: 10.16%
+
+This is a local cross-validation result, not an official comma.ai leaderboard score.
